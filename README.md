@@ -1,7 +1,8 @@
-# Login
+# Pagina-de-login
+
 Este é um projeto que visa apresentar uma tela de login simples para usuários que possuem uma conta.
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 As tecnologias utilizadas para a criação desta página são:
 
 - `HTML`
